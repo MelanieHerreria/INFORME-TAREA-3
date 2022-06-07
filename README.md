@@ -32,6 +32,8 @@ Comprender los temas sobre circuitos en serie y en paralelo, mediante la lectura
 
 ![Localizacion de fallas](https://user-images.githubusercontent.com/105259459/172300146-35e2000e-af2f-4186-8769-c347f3fdc26c.png)
 
+![Circuitosparalelos](https://user-images.githubusercontent.com/105259459/172316560-0c6dfd1b-9590-4dac-9d87-a6c1b572ff95.png)
+
 
 ***
 
