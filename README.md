@@ -34,6 +34,10 @@ Comprender los temas sobre circuitos en serie y en paralelo, mediante la lectura
 
 ![Circuitosparalelos](https://user-images.githubusercontent.com/105259459/172316560-0c6dfd1b-9590-4dac-9d87-a6c1b572ff95.png)
 
+![divisore de corriente](https://user-images.githubusercontent.com/105259459/172328337-52caf207-a97c-43dc-a1d8-364823c6c409.png)
+
+![fallas](https://user-images.githubusercontent.com/105259459/172333802-d51b57b5-beab-418f-9529-7f06343e23c5.png)
+
 
 ***
 
