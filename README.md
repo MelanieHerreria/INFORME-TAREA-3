@@ -439,6 +439,11 @@ https://www.youtube.com/watch?v=5S0WgDUcQ7Q
 
 **CONCLUSIONES**
 
+- A partir de los resúmenes realizados mediante mapas conceptuales, se puede decir que el circuito en serie proporciona una sola trayectoria para el paso de la corriente y la corriente es la misma a través de cada resistor mientras que el circuito en paralelo proporciona más de una trayectoria a la corriente y el voltaje a través de cualquier rama de un circuito paralelo es igual a cada una de las dos ramas e paralelo, también se realizó resumen de algunos temas, leídos en los capítulos anteriores pero que son importante para poder comprender mejor los circuitos en paralelo y en serie, conocidos también como circuitos resistivos. 
+
+- En la resolución de los ejercicios pares del libro “Principios de circuitos eléctricos” de Floyd, se aplicó lo comprendido de los capítulos 5 y 6, donde comprobamos lo importante que es diferenciar los conceptos de un circuito en serie y un circuito en paralelo para resolver problemas con respecto a esto.
+
+- En el video se justifica 4 ejercicios que se realizaron en el desarrollo del informe, mediante una breve explicación de lo que trata el ejercicio y aplicando las formula dadas.
 
 ***
 
